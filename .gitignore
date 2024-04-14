@@ -1,0 +1,32 @@
+# Miscellaneous
+*.log
+*.DS_Store
+*.iml
+.idea/
+.vscode/
+
+# Flutter/Dart specific
+**/build/
+.dart_tool/
+.pub/
+.pubspec.lock
+.packages
+/flutter_gallery/
+.flutter-plugins
+.flutter-plugins-dependencies
+/generated/
+
+# Android specific
+android/.gradle/
+android/.idea/
+android/build/
+android/local.properties
+android/app/debug.keystore
+android/app/key.properties
+
+# iOS specific
+ios/Pods/
+ios/.idea/
+ios/Flutter/
+ios/.symlinks/
+ios/Runner.xcodeproj/
