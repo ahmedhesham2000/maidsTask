@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
           BlocProvider(create: (context) => AppCubit()),
         ],
         child: MaterialApp(
-          title: 'Flutter Demo',
+          title: 'Task Manager',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),

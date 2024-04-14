@@ -41,7 +41,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Text(
-                      'Todo \nApp',
+                      'Task Manager \nApp',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: Color(0xff4A4A4A),
